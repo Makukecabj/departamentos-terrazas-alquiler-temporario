@@ -1,0 +1,454 @@
+{
+  "business": {
+    "name": "Departamentos \"TERRAZAS\" Alquiler temporario.",
+    "short_name": "departamentos-terrazas-alquiler-temporario",
+    "tagline": "Departamentos \"TERRAZAS\" Alquiler temporario. - Córdoba",
+    "description": "Departamentos \"TERRAZAS\" Alquiler temporario.: pileta, parrilla, WiFi y la mejor ubicación en Córdoba.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Córdoba · Jujuy 1150",
+    "title_line1": "Sumate a",
+    "title_em": "departamentos-terrazas-alquiler-temporario",
+    "title_line2": "",
+    "subtitle": "Habitaciones privadas y compartidas en Córdoba."
+  },
+  "location": {
+    "address": "Jujuy 1150, X5900 Villa María, Córdoba",
+    "district": "Córdoba",
+    "city": "Córdoba",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Jujuy 1150, X5900 Villa María, Córdoba, Córdoba",
+    "map_embed": "https://maps.google.com/maps?q=Jujuy+1150%2C+X5900+Villa+Mar%C3%ADa%2C+C%C3%B3rdoba%2C+C%C3%B3rdoba&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Córdoba. En el corazón de la ciudad.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493534823869",
+    "phone": "+5493534823869",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Departamentos+%22TERRAZAS%22+Alquiler+temporario./data=!4m11!3m10!1s0x95cc43d83cbde7f7:0x2aee52f44c885fea!5m3!1s2026-10-26!4m1!1i2!8m2!3d-32.4054033!4d-63.2479926!16s%2Fg%2F11vbrc4ts6!19sChIJ9-e9PNhDzJUR6l-ITPRS7io?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Departamentos+%22TERRAZAS%22+Alquiler+temporario./data=!4m11!3m10!1s0x95cc43d83cbde7f7:0x2aee52f44c885fea!5m3!1s2026-10-26!4m1!1i2!8m2!3d-32.4054033!4d-63.2479926!16s%2Fg%2F11vbrc4ts6!19sChIJ9-e9PNhDzJUR6l-ITPRS7io?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Todo sobre nosotros",
+    "title": "Todo sobre Departamentos \"TERRAZAS\" Alquiler temporario..",
+    "paragraphs": [
+      "Somos Departamentos \"TERRAZAS\" Alquiler temporario., un hostel con toda la vibra de Córdoba. Pileta, parrilla, cocina, WiFi y una ubicación que te queda perfecto para explorar todo. Vení y conocinos."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Te respondemos en el día",
+    "Sin intermediarios ni comisiones ocultas",
+    "Somos viajeros como vos, te entendemos"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Camas que invitan a quedarse",
+      "description": "Descansá bien para mañana seguir recorriendo.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet rápido y gratis",
+      "description": "Para subir historias y mandar ubicación a los pingos.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "En el corazón de la zona",
+      "description": "Todo cerca, nada de gastar en taxis.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "gabriela Verdechifflet",
+      "rating": 1,
+      "text": "Muy mala experiencia en el departamento 518 del 5 piso. Luz blanca deprimente tipo hospital. Bombita quemada. Los aires no estaban funcionando con calor. Nos dieron una estufita para compensar.Qué frío hacía. Las camas demasiadas blandas.…"
+    },
+    {
+      "author": "Noemí Rivero",
+      "rating": 4,
+      "text": "Tiene muy buena ubicación. Frente al hospital Italiano, cerca de la calle Corrientes con acceso a todas las paradas de colectivos.\nDepartamentos muy equipados"
+    },
+    {
+      "author": "Daiana Benítez",
+      "rating": 5,
+      "text": "Ideal para quienes buscan comodidad y ubicación estratégica, frente al Hospital Italiano de Buenos Aires. Cercano a transporte, comercios y zonas gastronómicas, perfecto para estadías médicas o turísticas."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "google",
+    "rating": 4.0,
+    "count": 43
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Se puede fumar?",
+      "answer": "En los espacios al aire libre, sí. Adentro no."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Departamentos \"TERRAZAS\" Alquiler temporario.",
+    "copyright": "© 2026 Departamentos \"TERRAZAS\" Alquiler temporario.. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Departamentos \"TERRAZAS\" Alquiler temporario.",
+        "short_name": "departamentos-terrazas-alquiler-temporario",
+        "tagline": "Departamentos \"TERRAZAS\" Alquiler temporario. - Accommodation",
+        "description": "Departamentos \"TERRAZAS\" Alquiler temporario., your ideal stay in Córdoba.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Córdoba · Jujuy 1150",
+        "title_line1": "Discover",
+        "title_em": "departamentos-terrazas-alquiler-temporario",
+        "title_line2": "",
+        "subtitle": "A chill place to rest in Córdoba."
+      },
+      "about": {
+        "eyebrow": "Our story",
+        "title": "Discover Departamentos \"TERRAZAS\" Alquiler temporario..",
+        "paragraphs": [
+          "Come to Departamentos \"TERRAZAS\" Alquiler temporario. and discover Córdoba from a cool hostel. We have pool, BBQ, equipped kitchen, WiFi and everything you need to feel at home."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Córdoba. Great location to explore the area."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "What time can I check in and out?",
+          "answer": "We're flexible with times. Drop us a message and we'll work it out."
+        },
+        {
+          "question": "Are towels provided?",
+          "answer": "Message us, we usually have towels available to lend."
+        },
+        {
+          "question": "Is breakfast included?",
+          "answer": "It depends on the season, message us and we'll confirm."
+        },
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "How do I get around the city?",
+          "answer": "Reach out and we'll tell you the best transport options and what to visit nearby."
+        }
+      ],
+      "trust_bar": [
+        "Someone's always here to help",
+        "No surprises at checkout",
+        "We'll tell you everything you need to know"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "gabriela Verdechifflet",
+          "rating": 1,
+          "text": "Very bad experience in apartment 518 on the 5th floor. Depressing hospital-like white light. Burnt bomb. The airs were not working with heat. They gave us a stove to compensate. It was cold. Beds that are too soft.…"
+        },
+        {
+          "author": "Noemí Rivero",
+          "rating": 4,
+          "text": "It has a very good location. In front of the Italian hospital, near Corrientes Street with access to all bus stops.\nHighly equipped apartments"
+        },
+        {
+          "author": "Daiana Benítez",
+          "rating": 5,
+          "text": "Ideal for those looking for comfort and strategic location, in front of the Hospital Italiano de Buenos Aires. Close to transport, shops and gastronomic areas, perfect for medical or tourist stays."
+        }
+      ],
+      "footer": {
+        "description": "Departamentos \"TERRAZAS\" Alquiler temporario.",
+        "copyright": "© 2026 Departamentos \"TERRAZAS\" Alquiler temporario.. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Departamentos \"TERRAZAS\" Alquiler temporario.",
+        "description": "Departamentos \"TERRAZAS\" Alquiler temporario., tu alojamiento ideal en Córdoba.",
+        "url": "",
+        "telephone": "+5493534823869",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Departamentos+%22TERRAZAS%22+Alquiler+temporario./data=!4m11!3m10!1s0x95cc43d83cbde7f7:0x2aee52f44c885fea!5m3!1s2026-10-26!4m1!1i2!8m2!3d-32.4054033!4d-63.2479926!16s%2Fg%2F11vbrc4ts6!19sChIJ9-e9PNhDzJUR6l-ITPRS7io?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Jujuy 1150, X5900 Villa María, Córdoba",
+          "addressLocality": "Córdoba",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -32.4052047,
+          "longitude": -63.2479658
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Camas que invitan a quedarse",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet rápido y gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "En el corazón de la zona",
+            "value": true
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.0,
+          "reviewCount": 43
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede fumar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En los espacios al aire libre, sí. Adentro no."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
