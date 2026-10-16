@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://departamentos-terrazas-alquiler-temporario.vercel.app/sitemap.xml
+Sitemap: https://departamentos-terrazas-alquiler-tem.vercel.app/sitemap.xml
